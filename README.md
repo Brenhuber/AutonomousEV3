@@ -1,7 +1,40 @@
-# AutonomousEV3
-This project is from my introductory engineering class in the first semester of university (Fall 2023). I designed and built a Lego EV3 vehicle capable of performing various tasks, including color sensing, distance recognition, and corrections. Using MATLAB, I programmed the vehicle to operate autonomously.
+<h1 align="center">🤖 AutonomousEV3</h1>
+<p align="center"><em>Maze-navigating, wheelchair-rescuing Lego EV3 robot — fully autonomous, MATLAB-powered</em></p>
 
-The goal was to traverse a maze, locate and pick up a wheelchair with the vehicle, and deliver it to the specified destination by targeting three checkpoints: yellow, blue, and green. The vehicle had to follow traffic laws (e.g., stopping at a red stop sign) and perform these tasks safely without damaging the wheelchair and its contents. The checkpoints were prioritized, and the vehicle had to navigate to them based on their 
-order hierarchy and further information while keeping track of its path and when to retrieve the wheelchair.
+---
 
-I'm proud to say I placed first in my class. I thoroughly enjoyed working on this project and plan to delve deeper into robotics in the future.
+### 🚀 Overview
+
+**AutonomousEV3** is a LEGO Mindstorms EV3 project developed during my first semester of university (Fall 2023). The challenge was to program a vehicle capable of navigating a maze and performing mission-critical tasks entirely autonomously using **MATLAB**.
+
+---
+
+### ✨ Objectives & Features
+- Design and build a **Lego EV3 robot** with:
+  - **Color sensing**
+  - **Distance detection**
+  - **Navigation correction mechanisms**
+- Use **MATLAB** to code the robot's logic and task execution  
+- Complete the mission by:
+  - **Traversing a maze**
+  - **Locating and picking up a wheelchair**
+  - **Delivering it safely** to a designated drop-off
+- **Follow traffic laws** (e.g., stop at red signs)
+- Dynamically target three **color-coded checkpoints**: yellow → blue → green  
+- Prioritize destinations based on **hierarchical logic**
+- Maintain awareness of current path and actions taken
+
+---
+
+### 🛠️ Tech Stack
+
+![MATLAB](https://img.shields.io/badge/MATLAB-MathWorks-orange?logo=mathworks)
+![LEGO EV3](https://img.shields.io/badge/Lego-EV3-lightgrey?logo=lego)
+![Robotics](https://img.shields.io/badge/Robotics-Autonomous-blue?logo=robotframework)
+
+---
+
+### 🏆 Outcome
+
+- Successfully completed all tasks with zero collisions or damage  
+- **Placed 1st in class competition** for performance and accuracy  
